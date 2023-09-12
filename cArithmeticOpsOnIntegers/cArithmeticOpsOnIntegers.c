@@ -1,7 +1,7 @@
 /*
 Filename: cArithmeticOpsOnIntegers.c
 Author: Alex Kinch
-Date: Seo. 7, 2023
+Date: Sep. 7, 2023
 Purpose: To demonstrate the various arithmetic operations on integers.
 */
 
@@ -41,7 +41,7 @@ int main()
 
     // Regular division
     float num3 = num1/num2;
-    printf("\nIn regular division, the result of num1 divided by num2 = %f\n", num4);
+    printf("\nIn regular division, the result of num1 divided by num2 = %f\n", num3);
 
 
 
