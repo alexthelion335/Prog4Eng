@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695317510 source:/home/alex/Prog4Eng/cBreakContinue/cBreakContinue.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

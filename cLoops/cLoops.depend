@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695314746 source:/home/alex/Prog4Eng/cLoops/cLoops.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
