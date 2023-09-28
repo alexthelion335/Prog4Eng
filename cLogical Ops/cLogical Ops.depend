@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695921856 source:/home/alex/Prog4Eng/cLogical Ops/cLogicalOps.c
+	<stdio.h>
+	<stdlib.h>
+
