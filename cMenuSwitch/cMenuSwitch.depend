@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696524253 source:/home/alex/Prog4Eng/cMenuSwitch/cMenuSwitch.c
+	<stdio.h>
+	<stdlib.h>
+
