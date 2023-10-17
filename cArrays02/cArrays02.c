@@ -29,4 +29,15 @@ int main(void) {
    for (size_t face = 1; face < SIZE; ++face) {
       printf("%4zu%17d\n", face, frequency[face]);
    }
+
+   // Display a bar chart for the frequencies (from fig 6-6 in book)
+   for (size_t i = 0; i < SIZE; ++i) {
+      printf("%7zu%13d%8s", i, frequency[i], "");
+
+      for (int j = 1; j <= (frequency[i]/1000000); ++j) { // print one bar
+        printf("%c", '*');
+      }
+
+      puts(""); // end a bar with a newline
+   }
 }

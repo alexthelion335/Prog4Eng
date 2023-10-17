@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697560116 source:/home/alex/Prog4Eng/cArrays02/cArrays02.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
