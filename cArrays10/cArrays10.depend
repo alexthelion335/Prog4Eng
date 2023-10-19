@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697735939 source:/home/alex/Prog4Eng/cArrays10/cArrays10.c
+	<stdio.h>
+	<stdlib.h>
+
