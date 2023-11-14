@@ -81,5 +81,12 @@ int main()
     printf("\n%g\n", p);
     printf("%#g\n", p);
 
+    puts("");
+
+    // Date: Nov. 14, 2023
+    // The 0 flag
+    printf("%+09d\n", 452);
+    printf("%09d\n", 452);
+
     return 0;
 }
