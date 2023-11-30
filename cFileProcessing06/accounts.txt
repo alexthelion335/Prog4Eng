@@ -1,0 +1,5 @@
+Acct  Last Name       First Name    Balance
+10    Smith           A             1000.00
+20    Smith           B             1800.00
+30    Smtih           C             2000.00
+40    Smith           Daniel        5000.00
