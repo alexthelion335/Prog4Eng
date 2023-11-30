@@ -12,7 +12,7 @@ int main(void){
    }
    else {
       puts("Enter the account, name, and balance.");
-      puts("Enter EOF to end input.");
+      puts("Enter EOF (CTRL+D on Linux, CTRL+Z) to end input.");
       printf("%s", "? ");
 
       int account = 0; // account number
